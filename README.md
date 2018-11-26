@@ -1,2 +1,2 @@
-# Artificial-Intelligence-ColumbaiX-edx
+# Artificial-Intelligence-ColumbiaX-edx
 
